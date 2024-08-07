@@ -95,7 +95,7 @@ This metric represents the percentage of total vehicles that are electric within
 ![Screenshot 2024-08-07 180808](https://github.com/user-attachments/assets/6a277df4-3e52-46d0-9687-89fc5345beeb)
 
 
-## 6 - Avg Performance and Work Life Balance :
+## 6 - Compounded Annual Growth Rate state wise :
 
 ![Screenshot 2024-08-07 175418](https://github.com/user-attachments/assets/8ef55c28-c35e-48dd-8779-e464404d4ccc)
 
